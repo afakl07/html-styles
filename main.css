@@ -1,0 +1,26 @@
+.city {
+    padding: 50px;
+    margin: 25px;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+.city--pink {
+    background-color: palevioletred;
+}
+
+#london {
+    font-size: 60px;
+}
+
+#berlin {
+    color: cornflowerblue;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
